@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, My name is Alberto. I like to work with Python and JavaScript. I'm recently started to learn Rust! My main interest in research are agents. 
 
 
